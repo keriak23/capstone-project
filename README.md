@@ -10,3 +10,8 @@ git config user.name "Keriak23"
 git config user.email "keriamerritt23@gmail.com"
 git push -u origin main
 
+git add .
+
+git commit -m "add more commands to the README file"
+
+git push orgin main
