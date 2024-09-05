@@ -6,6 +6,7 @@ git branch -M main
 git remote add origin https://github.com/keriak23/multi-page-website-rsugbdczt7brrbp5o40a2s8vi0kgm9vb8tgk6wiqyfpua5rbx798rbssfw82rgvx70jk3t1k409uf7v.git
 git push -u origin main
 https://webi.sh/gh | sh
+//Enter to select all defult choices. (remeber to copy device link and put in code)
 gh auth login
 
 git config user.name "Keriak23"
